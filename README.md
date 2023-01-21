@@ -1,2 +1,3 @@
 # Exploratory-Data-Analysis-on-Superstore-Sales
-"The 'Exploratory Data Analysis on Superstore Sales' project is an in-depth analysis of sales data of a superstore using pandas, numpy, seaborn, and matplotlib. 
+
+The 'Exploratory Data Analysis on Superstore Sales' project is an in-depth analysis of sales data of a superstore. The project utilizes several popular data analysis libraries such as pandas, numpy, seaborn, and matplotlib to clean and analyze the data. The goal of this project is to gain insights into the sales data by answering questions such as: Which day of the week gets the most orders? Who are the most valuable customers? Which states generate the most revenue? And which products contribute the most to the company's revenue? The analysis is presented with visually appealing data visualizations to help communicate the findings.
